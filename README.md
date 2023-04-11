@@ -1,5 +1,5 @@
 
-Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://go.dev/doc/install)
+Please check the official go installation guide for server requirements before you start. [Official Documentation](https://go.dev/doc/install)
 
 Clone the repository
 
