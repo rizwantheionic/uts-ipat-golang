@@ -3,7 +3,7 @@ Please check the official go installation guide for server requirements before y
 
 Clone the repository
 
-    git clone https://github.com/firstioanmar/uts-ipat-golang.git
+    git clone https://github.com/rizwantheionic/uts-ipat-golang.git
     
 run project
 
